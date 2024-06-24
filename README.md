@@ -13,7 +13,7 @@ Este proyecto es un generador de proyectos para crear aplicaciones React utiliza
 1. **Clona el repositorio:**
 
     ```sh
-    git clone [https://github.com/Lui5-99/generador-react-vite.git](https://github.com/Lui5-99/Generator-ReactApp.git)
+    git clone https://github.com/Lui5-99/generador-react-vite.git
     cd Generator-ReactApp
     ```
 
